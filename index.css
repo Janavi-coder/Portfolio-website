@@ -37,7 +37,7 @@ html {
 	justify-content: space-between;
 }
 .nav-bar .brand a {
-	font-family: 'Flash Back - Demo', sans-serif;
+	font-family: 'Flash Back - Demo', 'cursive';
 	font-size: 3rem;
 	color: white;
 }
